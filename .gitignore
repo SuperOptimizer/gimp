@@ -1,0 +1,15 @@
+# Fuzzer build directories
+build_*
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
